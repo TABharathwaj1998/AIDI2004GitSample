@@ -1,0 +1,6 @@
+# A sample code that prints two variables
+
+a="Hello"
+b="World"
+
+print(a,b)
